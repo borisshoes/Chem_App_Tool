@@ -1,0 +1,2 @@
+[console_scripts]
+chem_tool_run = chem_tool.gui:main

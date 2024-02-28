@@ -1,0 +1,8 @@
+setup.py
+chem_tool/__init__.py
+chem_tool/gui.py
+chem_tool.egg-info/PKG-INFO
+chem_tool.egg-info/SOURCES.txt
+chem_tool.egg-info/dependency_links.txt
+chem_tool.egg-info/entry_points.txt
+chem_tool.egg-info/top_level.txt
